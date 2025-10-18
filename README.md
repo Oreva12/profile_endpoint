@@ -11,7 +11,7 @@ A simple REST API endpoint that returns my profile info and a dynamic cat fact.
 {
   "status": "success",
   "user": {
-    "email": "oreva@example.com",
+    "email": "ovedheo@gmail.com",
     "name": "Orevaoghene Ovedhe",
     "stack": "Node.js/Express"
   },
